@@ -19,4 +19,3 @@ Welcome! This repository serves as a showcase of my technical skills in software
 
 ## 📫 Contact
 - **Email:** JStarkey125@gmail.com
-- **LinkedIn:** [Insert your LinkedIn Link here]
